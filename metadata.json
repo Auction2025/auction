@@ -1,0 +1,5 @@
+{
+  "name": "Auction Generator",
+  "description": "A dynamic auction system with player management, a spin wheel for random selection, team bidding, and comprehensive reporting.",
+  "requestFramePermissions": []
+}
